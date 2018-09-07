@@ -19,6 +19,9 @@ html {
 
 body {
 	background-image: url("/images/bckgnd.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
         font: 18px/1.4 $helvetica;
         color: #000000;
 } 
