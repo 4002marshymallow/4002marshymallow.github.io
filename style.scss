@@ -23,7 +23,7 @@ body {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
         font: 18px/1.4 $helvetica;
-        color: #000000;
+        color: #ffffff;
 } 
 
 .container {
@@ -31,7 +31,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-image: rgba(102, 102, 153);
+  background-color: rgba(102, 102, 153)1.0;
 }
 
 //table code
@@ -43,7 +43,7 @@ width: 100%;
 
 table, th, td {
 border: 1px solid black;
-background-color:#ffffff;
+background-color:#666699;
 
 }
 
@@ -54,7 +54,7 @@ padding: 10px;
 
 th {
 color: white;
-background: #ffffff;
+background: #666699;
 height:50px;
 vertical-align: middle;
 }
